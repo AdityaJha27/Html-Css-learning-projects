@@ -1,6 +1,6 @@
 # Html-Css-learning-projects
 ## amazon navbar
-![navbar](<Screenshot (802).png>)
+![navbar](<Screenshot (802)-1.png>)
 
 ## My Portfolio
-![my portfolio](<Screenshot (803).png>)
+![my portfolio](<Screenshot (803)-1.png>)
